@@ -1,4 +1,4 @@
-# Rapid Prediction of Protein Natural Frequencies using Graph Neural Networks
+# ProteinMechanicsGNN: Rapid Prediction of Protein Natural Frequencies using Graph Neural Networks
 
 Kai Guo, Markus J. Buehler
 
