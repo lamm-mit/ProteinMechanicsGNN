@@ -14,7 +14,7 @@ pickle == 4.0
 
 biopython
 
-Datafile: https://www.dropbox.com/s/54y7ihxdxibbilw/all_proteins_freqs_no_ratios.zip?dl=0 (place into Notebooks/data)
+Datafile: 10.5281/zenodo.6346661 (place into Notebooks/data)
 
 ## Training and Inference
 
