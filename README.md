@@ -14,6 +14,8 @@ pickle == 4.0
 
 biopython
 
+Datafile: https://www.dropbox.com/s/54y7ihxdxibbilw/all_proteins_freqs_no_ratios.zip?dl=0
+
 ## Training and Inference
 
 1. run get_pdb.sh in the "PDB" folder to download PDB files
